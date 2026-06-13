@@ -2,7 +2,7 @@
 
 ## 📦 Free Fire Item Icons – No Watermark, Fast Delivery
 
-> **Created & maintained by [Shahil Ali](https://github.com/Shahilali5)**  
+> **Created & maintained by [Shahil](https://github.com/Shahilali5)**  
 > A simple, high-performance API to fetch clean Free Fire item icons using their in-game IDs.
 
 ---
