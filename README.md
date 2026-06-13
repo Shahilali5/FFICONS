@@ -12,7 +12,7 @@
 ### Base URL
 ```
 
-https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/{item_ID}.png
+https://cdn.jsdelivr.net/gh/Shahilali5/FFICONS@main/PNG/{item_ID}.png
 
 ```
 
@@ -24,7 +24,7 @@ Replace `{item_ID}` with the actual Free Fire item ID.
 
 ```
 
-https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907092607.png
+https://cdn.jsdelivr.net/gh/Shahilali5/FFICONS@main/PNG/907092607.png
 
 ```
 
@@ -77,6 +77,8 @@ FFICONS/
 ## 👤 Full Credit & Ownership
 
 **This API and all icons are exclusively provided by [Shahil Ali](https://github.com/Shahilali5)**  
+&
+UPDATE BY [ShahGCreator](https://github.com/ShahGCreator)**  
 
 - **Official Repository**: [github.com/Shahilali5/FFICONS](https://github.com/Shahilali5/FFICONS)
 - **Contact / Issues**: Open an issue on the repository above
