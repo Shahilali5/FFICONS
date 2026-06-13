@@ -78,7 +78,7 @@ FFICONS/
 
 **This API and all icons are exclusively provided by [Shahil Ali](https://github.com/Shahilali5)**  
 &
-UPDATE BY [ShahGCreator](https://github.com/ShahGCreator)**  
+**UPDATE BY [ShahGCreator](https://github.com/ShahGCreator)** 
 
 - **Official Repository**: [github.com/Shahilali5/FFICONS](https://github.com/Shahilali5/FFICONS)
 - **Contact / Issues**: Open an issue on the repository above
