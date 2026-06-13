@@ -357,5 +357,5 @@ Free Fire icons API, Free Fire item icons, game icon CDN, free icon API, item ic
 
 ---
 
-**Last Updated:** June 2024  
+**Last Updated:** June 2026  
 **Maintained By:** Shahil Ali & ShahGCreator
